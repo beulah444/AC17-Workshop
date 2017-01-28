@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AC17-workshop</string>
+    <string name="welcome_label_text">Welcome Please Press a Button:</string>
+    <string name="question_button_text">Question</string>
+    <string name="picture_button_text">Picture</string>
+</resources>
