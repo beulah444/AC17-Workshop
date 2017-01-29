@@ -3,4 +3,12 @@
     <string name="welcome_label_text">Welcome Please Press a Button:</string>
     <string name="question_button_text">Question</string>
     <string name="picture_button_text">Picture</string>
+    <string name="question_label_text">What is the meaning of the life</string>
+    <string name="text_feild_placeholder_text">Enter text here</string>
+    <string name="submit_button_text">Submit</string>
+    <string name="answer_label_default">-------------------</string>
+    <string name="answer_label_correct">Correct</string>
+    <string name="answer_label_incorrec">Incorrect</string>
+    <string name="picture_label_text">Press the Picture to change it</string>
+    <string name="image_view_text">Image View</string>
 </resources>

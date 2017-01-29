@@ -10,4 +10,20 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.preethi.ac17_workshop.PictureActivity">
 
+    <TextView
+        android:id="@+id/picture_label"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/image_view"
+        android:text="@string/picture_label_text"
+        android:textSize="20sp"
+        android:gravity="center"/>
+    <ImageView
+        android:id="@+id/image_view"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/phone"
+        android:contentDescription="@string/image_view_text"/>
 </RelativeLayout>
